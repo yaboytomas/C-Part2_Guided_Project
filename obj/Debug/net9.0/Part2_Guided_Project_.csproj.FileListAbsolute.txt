@@ -1,0 +1,15 @@
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\bin\Debug\net9.0\Part2_Guided_Project_.exe
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\bin\Debug\net9.0\Part2_Guided_Project_.deps.json
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\bin\Debug\net9.0\Part2_Guided_Project_.runtimeconfig.json
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\bin\Debug\net9.0\Part2_Guided_Project_.dll
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\bin\Debug\net9.0\Part2_Guided_Project_.pdb
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\obj\Debug\net9.0\Part2_Guided_Project_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\obj\Debug\net9.0\Part2_Guided_Project_.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\obj\Debug\net9.0\Part2_Guided_Project_.AssemblyInfo.cs
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\obj\Debug\net9.0\Part2_Guided_Project_.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\obj\Debug\net9.0\Part2_Guided_Project_.sourcelink.json
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\obj\Debug\net9.0\Part2_Guided_Project_.dll
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\obj\Debug\net9.0\refint\Part2_Guided_Project_.dll
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\obj\Debug\net9.0\Part2_Guided_Project_.pdb
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\obj\Debug\net9.0\Part2_Guided_Project_.genruntimeconfig.cache
+C:\Users\tomas\Documents\repositorios\C#\Part2_Guided_Project_\obj\Debug\net9.0\ref\Part2_Guided_Project_.dll
